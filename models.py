@@ -1,4 +1,4 @@
-"""Models for Blogly."""
+"""SQLAlchemy models for blogly."""
 
 from flask_sqlalchemy import SQLAlchemy
 
